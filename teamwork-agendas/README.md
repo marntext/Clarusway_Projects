@@ -18,4 +18,8 @@ List of teamwork agendas for Full Stack 6/20  learning path as follows;
 - [Teamwork Agenda - 014 : ReactJS](./pro-tw-014/tw-014-student.pdf)
 - [Teamwork Agenda - 015 : NodeJS](./pro-tw-015/tw-015-student.pdf)
 - [Teamwork Agenda - 016 : MongoDB](./pro-tw-016/tw-016-student.pdf)
+<<<<<<< HEAD
+=======
+- [Teamwork Agenda - 017 : Django](./pro-tw-017/tw-017-student.pdf)
+>>>>>>> 958d9268294aee3b9dff7143c97ad64d433eb89a
 
