@@ -14,7 +14,5 @@ List of coding challenges within JavaScript workshop as follows;
 - [CC - 010 : JS-CC-10](./cc-010/README.pdf)
 - [CC - 011 : JS-CC-11](./cc-011/README.pdf)
 - [CC - 012 : JS-CC-12](./cc-012/README.pdf)
-<<<<<<< HEAD
-=======
 - [CC - 012 : JS-CC-13](./cc-013/README.pdf)
->>>>>>> 958d9268294aee3b9dff7143c97ad64d433eb89a
+- [CC - 012 : JS-CC-14](./cc-014/README.pdf)
